@@ -1,9 +1,9 @@
-🎨 Color Switcher
+## 🎨 Color Switcher
 
 A simple and responsive Color Switcher built with HTML, CSS, and JavaScript.
 Clicking on a colored box changes the background color of the entire webpage (and optionally the heading color too).
 
-🚀 Features
+## 🚀 Features
 
 🖌️ Change background color by clicking on colored boxes
 
@@ -14,7 +14,7 @@ Clicking on a colored box changes the background color of the entire webpage (an
 🎯 Clean and simple UI
   
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 – structure
 
@@ -23,4 +23,4 @@ CSS3 – styling & responsiveness
 JavaScript (Vanilla JS) – functionality
 
 
-🙌 Deployed Link: https://priyanshi585.github.io/Color-Switcher/
+## 🙌 Deployed Link: https://priyanshi585.github.io/Color-Switcher/
